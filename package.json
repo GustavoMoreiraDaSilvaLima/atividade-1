@@ -1,0 +1,28 @@
+{
+  "name": "atividade-1",
+  "version": "1.0.0",
+  "description": "Tabuada de acordo com o numero digitado pelo usuario",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMoreiraDaSilvaLima/atividade-1.git"
+  },
+  "keywords": [
+    "tabuada",
+    "multiplicação"
+  ],
+  "author": "Gustavo Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMoreiraDaSilvaLima/atividade-1/issues"
+  },
+  "homepage": "https://github.com/GustavoMoreiraDaSilvaLima/atividade-1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
